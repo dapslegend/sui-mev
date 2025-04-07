@@ -1,3 +1,14 @@
+# Issues 
+
+Convert to mev lib that can run on diff chains
+
+use graph+bellman algo to find shortest path so it avoids long path
+
+reduce simulations/ support more dex 
+
+steal private orders from validators
+
+
 # Sui MEV Bot
 
 
