@@ -1,12 +1,12 @@
 # Issues 
 
-Convert to mev lib that can run on diff chains
+Convert to mev lib that can run on diff chains: feasibile
 
-use graph+bellman algo to find shortest path so it avoids long path
+use graph+bellman algo to find shortest path so it avoids long path: feasibile with more trading algo
 
-reduce simulations/ support more dex 
+reduce simulations/ support more dex: feasibile
 
-steal private orders from validators
+steal private orders from validators: expensive but feasibile
 
 
 # Sui MEV Bot
