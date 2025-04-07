@@ -8,6 +8,7 @@ reduce simulations/ support more dex: feasibile
 
 steal private orders from validators: expensive but feasibile
 
+Goal: Build Mev bot that support most chains spotting wilder range of swap and bridge opportunities
 
 # Sui MEV Bot
 
